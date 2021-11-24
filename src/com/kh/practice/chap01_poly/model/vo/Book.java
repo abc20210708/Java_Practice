@@ -43,10 +43,10 @@ public class Book {
     }
 
     public String toString() {
-        return "Book{" +
+        return "Book[" +
                 "title='" + title + '\'' +
                 ", author='" + author + '\'' +
                 ", publisher='" + publisher + '\'' +
-                '}';
+                ']';
     }
 }//end class

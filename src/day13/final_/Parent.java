@@ -1,7 +1,8 @@
 package day13.final_;
 
-class Children {
+class Children  {
     Math s;
+
 }//end class
 
 public final class Parent {

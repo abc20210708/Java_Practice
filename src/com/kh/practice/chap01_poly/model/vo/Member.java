@@ -49,12 +49,12 @@ public class Member {
     }
 
     public String toString() {
-        return "Member{" +
+        return "Member[" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", gender=" + gender +
                 ", couponCount=" + couponCount +
-                '}';
+                ']';
     }
 
 }//end class

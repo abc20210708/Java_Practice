@@ -9,11 +9,13 @@ public class Calculator {
     static double pi; //원주율
 
      void 색칠하다() {
-        this.color = "빨강";
+
+         this.color = "빨강";
      }
 
      ////
      static double 원의_넓이를_계산하다(int 반지름) {
+
          return 반지름 * 반지름 * pi;
      }
 

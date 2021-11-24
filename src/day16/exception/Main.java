@@ -8,7 +8,7 @@ public class Main {
 //        kim.insertScore();
 
         //System.out.println("프로그램 정상 종료");
-
+/*
         System.out.println("======================");
 
         Account acc = new Account(5000);
@@ -20,7 +20,7 @@ public class Main {
             System.out.println("message = " + message);
             //에러 로그 확인
             e.printStackTrace();///빨간색 메세지, 프로그램이 터지진 않아욥
-        }
+        }*/
 
 
     }//end main

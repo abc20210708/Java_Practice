@@ -13,7 +13,7 @@ public class 학생 {
     //직접 참조할 수 없다.
     public static void 국적을물어보다(학생 못난이학생) {
         //전공을물어보다();
-       System.out.println("나의 전공: " + 못난이학생.전공);
+       //System.out.println("나의 전공: " + 못난이학생.전공);
         ///인스턴스 필드 참조하려면 this가 누군지 알려줘야함
         ///누구의 전공인지
         System.out.println("나의 국적: " + 국적);
